@@ -40,7 +40,7 @@ Vi povas decidi.
 ## 2. La pronomo "lej"
 
 ### Regulo 2.1 - uzo de "li" aŭ "ŝi" estas la normo, se la sekso estas konata
-Se vi konas la sekso de iu homo, vi uzos "ŝi" au "li". (Se iu petas vin uzi la pronomon "ri", vi povas uzi "ri" por aludi al tiu persono.)
+Se vi konas la sekson de iu homo, vi uzos "ŝi" au "li". (Se iu petas vin uzi la pronomon "ri", vi povas uzi "ri" por aludi al tiu persono.)
 
 ### Regulo 2.2 - uzo de "lej" estas la normo, se la sekso estas nekonata
 Por personoj de kiu vi ne konas la sekson, vi uzas "lej".
