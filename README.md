@@ -1,1 +1,59 @@
-# esperlingvo.github.io
+# Esperlingvo
+
+Esperlingvo estas malgranda reformo de Esperanto, kiu intencas:
+- helpi solvi la nesimetrion de la ina sufikso en natura maniero
+- enkonduki pronomon kiu estas nur uzota se la sekso de iu homo estas nekonata
+
+## 1. Solvi la nesimetrio de la ina sufikso
+
+### Regulo 1.1 - vi apogas la uzon de iĉaj radikoj, inaj radikoj kaj neŭtralaj radikoj
+Ekzemploj:
+- "patro" estas iĉa.
+- "matro" estas ina.
+- "urbestro" estas neŭtrala.
+- "fizikisto" estas neŭtrala.
+- "amiko" estas neŭtrala.
+
+
+### Regulo 1.2 - vi apogas la simetrian uzon de inaj kaj iĉaj radikoj
+Ekzemploj:
+- se vi uzas la vorton "patro" (sen "-iĉa" sufikso, sed kun iĉa signifo), vi NE uzos la vorton "patrino", sed vi uzos "matro".
+- se vi uzas la vorton "matro" (sen "-ina" sufikso, sed kun ina signifo), vi NE uzos la vorton "matriĉo", sed vi uzos "patro".
+- se vi uzas la vorton "viro" (sen "-iĉa" sufikso, sed kun iĉa signifo), vi devas koni inan radikon por tiu koncepto. Se tio ankoraŭ ne ekzistas, vi apogas la enkondukon de nova radiko, ekzemple "femo"*.
+- vi uzas "vira/fema" aŭ "iĉa/ina" (aŭ "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema".
+
+\* La vorto "femo" estas ideo de artefarita intelekto.
+
+
+### Regulo 1.3 - vi apogas la simetrian uzon de la sufiksoj "iĉa" kaj "ina"
+Ekzemploj:
+- se vi uzas la vorton "patrino", vi ankaŭ uzos la vorton "patriĉo".
+- se vi uzas la vorton "viriĉo", vi ankaŭ uzos la vorton "virino".
+- se vi NE uzos la vorton "fizikistiĉo", vi ankaŭ NE uzos la vorton "fizikistino".
+
+### Regulo 1.4 - la neŭtrala vorto: ĉu necesas tri radikoj, du aŭ unu?
+Vi povas decidi.
+- kio estas neŭtrala vorto por "patro/matro"? Ne "gepatro" aŭ "gematro". Eble la jam ekzistanta vorto "parento" (el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o)), do triopo [patro, matro, parento].
+- kio estas neŭtrala vorto por "patriĉo/patrino"? Eble "gepatro" (unu radiko [patr], uzante "ge-") aŭ "parento" (du radikoj, [patr, parent], ne uzante "ge-").
+- kio estas neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi, kaj vi povas uzi "reĝido", "reĝidiĉo", "reĝidino". (Unu radiko [reĝ], ne uzante "ge-".)
+
+## 2. La pronomo "lej"
+
+### Regulo 2.1 - uzo de "li" aŭ "ŝi" estas la normo, se la sekso estas konata
+Se vi konas la sekso de iu homo, vi uzos "ŝi" au "li". (Se iu petas vin uzi la pronomon "ri", vi povas uzi "ri" por aludi al tiu persono.)
+
+### Regulo 2.2 - uzo de "lej" estas la normo, se la sekso estas nekonata
+Por personoj de kiu vi ne konas la sekson, vi uzas "lej".
+
+Ekzemploj:
+- "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al lej."
+- "Vendisto havas vendejon. Lej laboras minimume kvar tagojn."
+
+Vi povas uzi "li aŭ ŝi" anstataŭ "lej". (Eble kelkaj personoj preferos "li, ŝi aŭ ri".)
+
+La pronomo "lej" vi ne uzu kiam vi konas la sekson de iu persono. Se iu petas vin ne uzi "li" aŭ "ŝi" por aludi al lej, vi povas uzi "ri" anstataŭe.
+
+## Konkludo
+- Oni povas uzi iĉajn, inajn kaj neŭtralajn radikojn.
+- Oni uzas la iĉa kaj ina sufiksoj simetrie.
+- Oni povas uzi la pronomoj mi, vi, lej, li, ŝi, ri, ĝi, ni kaj ili.
