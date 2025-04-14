@@ -54,7 +54,7 @@ Vi povas uzi "li aŭ ŝi" anstataŭ "lej". (Eble kelkaj personoj preferos "li, �
 Ekzemplo:
 - "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al li aŭ ŝi."
 
-La pronomo "lej" vi ne uzu kiam vi konas la sekson de iu persono. Se iu petas vin ne uzi "li" aŭ "ŝi" por aludi al lej, vi povas uzi "ri" anstataŭe.
+La pronomo "lej" vi ne uzu kiam vi konas la sekson de la persono. Se iu petas vin ne uzi "li" aŭ "ŝi" por aludi al lej, vi povas uzi "ri" anstataŭe.
 
 ## Konkludo
 - Oni povas uzi iĉajn, inajn kaj neŭtralajn radikojn.
