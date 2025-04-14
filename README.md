@@ -35,7 +35,7 @@ Ekzemploj:
 Vi povas decidi.
 - kio estas neŭtrala vorto por "patro/matro"? Ne "gepatro" aŭ "gematro". Eble la jam ekzistanta vorto "parento" (el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o)), do triopo [patro, matro, parento].
 - kio estas neŭtrala vorto por "patriĉo/patrino"? Eble "gepatro" (unu radiko [patr], uzante "ge-") aŭ "parento" (du radikoj, [patr, parent], ne uzante "ge-").
-- kio estas neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi, kaj vi povas uzi "reĝido", "reĝidiĉo", "reĝidino". (Unu radiko [reĝ], ne uzante "ge-".)
+- kio estas neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi (unu radiko [reĝ], ne uzante "ge-").
 
 ## 2. La pronomo "lej"
 
