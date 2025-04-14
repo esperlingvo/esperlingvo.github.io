@@ -43,13 +43,16 @@ Vi povas decidi.
 Se vi konas la sekson de iu homo, vi uzos "ŝi" au "li". (Se iu petas vin uzi la pronomon "ri", vi povas uzi "ri" por aludi al tiu persono.)
 
 ### Regulo 2.2 - uzo de "lej" estas la normo, se la sekso estas nekonata
-Por personoj de kiu vi ne konas la sekson, vi uzas "lej".
+Por persono de kiu vi ne konas la sekson, vi uzas "lej".
 
 Ekzemploj:
 - "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al lej."
 - "Vendisto havas vendejon. Lej laboras minimume kvar tagojn."
 
 Vi povas uzi "li aŭ ŝi" anstataŭ "lej". (Eble kelkaj personoj preferos "li, ŝi aŭ ri".)
+
+Ekzemplo:
+- "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al li aŭ ŝi."
 
 La pronomo "lej" vi ne uzu kiam vi konas la sekson de iu persono. Se iu petas vin ne uzi "li" aŭ "ŝi" por aludi al lej, vi povas uzi "ri" anstataŭe.
 
