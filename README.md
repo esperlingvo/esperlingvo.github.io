@@ -60,3 +60,10 @@ La pronomo "lej" vi ne uzu kiam vi konas la sekson de la persono. Se iu petas vi
 - Oni povas uzi iĉajn, inajn kaj neŭtralajn radikojn.
 - Oni uzas la sufiksojn "iĉa" kaj "ina" simetrie.
 - Oni povas uzi la pronomojn mi, vi, lej, li, ŝi, ri, ĝi, ni kaj ili (laŭ la reguloj).
+
+
+## Diskuti
+
+Diskutgrupo ĉe Telegramo:
+
+[t.me/esperlingvo](t.me/esperlingvo)
