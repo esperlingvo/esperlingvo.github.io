@@ -66,4 +66,4 @@ La pronomo "lej" vi ne uzu kiam vi konas la sekson de la persono. Se iu petas vi
 
 Diskutgrupo ĉe Telegramo:
 
-[t.me/esperlingvo](t.me/esperlingvo)
+[t.me/esperlingvo](https://t.me/esperlingvo)
