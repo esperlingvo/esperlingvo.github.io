@@ -20,7 +20,7 @@ Ekzemploj:
 - se vi uzas la vorton "patro" (sen "-iĉa" sufikso, sed kun iĉa signifo), vi NE uzu la vorton "patrino", sed vi uzos "matro".
 - se vi uzas la vorton "matro" (sen "-ina" sufikso, sed kun ina signifo), vi NE uzu la vorton "matriĉo", sed vi uzos "patro".
 - se vi uzas la vorton "viro" (sen "-iĉa" sufikso, sed kun iĉa signifo), vi devas koni inan radikon por tiu koncepto. Se tio ankoraŭ ne ekzistas, vi apogas la enkondukon de nova radiko, ekzemple "femo"*.
-- vi uzas "vira/fema" aŭ "iĉa/ina" (aŭ "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema".
+- vi uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
 
 \* La vorto "femo" estas ideo de artefarita intelekto.
 
