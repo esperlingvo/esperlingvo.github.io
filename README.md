@@ -4,7 +4,7 @@ Esperlingvo estas eta reformo de Esperanto, kiu celas:
 - helpi solvi la nesimetrion de la ina sufikso en natura maniero
 - enkonduki pronomon kiu estas nur uzota se la sekso de iu homo estas nekonata
 
-## 1. Solvi la nesimetrio de la ina sufikso
+## 1. Solvi la nesimetrion de la ina sufikso
 
 ### Regulo 1.1 - vi apogas la uzon de iĉaj radikoj, inaj radikoj kaj neŭtralaj radikoj
 Ekzemploj:
