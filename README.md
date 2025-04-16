@@ -67,3 +67,12 @@ La pronomo "lej" vi ne uzu kiam vi konas la sekson de la persono. Se iu petas vi
 Diskutgrupo ĉe Telegramo:
 
 [t.me/esperlingvo](https://t.me/esperlingvo)
+
+La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
+
+
+| iĉa | ina | neŭtrala |
+| --- | --- | -------- |
+| viro | femo | plenkreskulo (junulo, infano) |
+| patro | matro | parento |
+| frato | sestro | iĥvo / ikvo |
