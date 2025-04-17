@@ -71,8 +71,8 @@ Diskutgrupo ĉe Telegramo:
 La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 
 
-| iĉa | ina | neŭtrala |
-| --- | --- | -------- |
-| viro | femo | plenkreskulo (junulo, infano) |
-| patro | matro | parento |
-| frato | sestro | iĥvo / ikvo |
+| iĉa | ina | neŭtrala | |
+| --- | --- | -------- | --- |
+| viro | femo | plenkreskulo (junulo, infano) | |
+| patro | matro | parento | |
+| frato | sestro | iĥvo / ikvo | "Iĥva" estas la egipta prononco de la araba [إخوة](https://forvo.com/word/إخوة/).
