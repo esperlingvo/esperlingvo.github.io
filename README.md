@@ -75,6 +75,6 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 | --- | --- | -------- |
 | viro | femo | plenkreskulo (junulo, infano) |
 | patro | matro | parento |
-| frato | sestro | iĥvo / ikvo <sup>1</sup>|
+| frato | sestro | kardo |
 
-<sup>1</sup> "Iĥva" estas la egipta prononco de la araba [إخوة](https://forvo.com/word/إخوة/) kaj signifas "pluraj fratoj/sestroj", do "iĥvo" estas proponita kiel neŭtrala formo de "frato"/"sestro".
+- "kardo" estas de la turka vorto "kardeş".
