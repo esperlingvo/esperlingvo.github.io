@@ -77,6 +77,8 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 | patro | matro | parento | |
 | frato | sestro | kardo | 1 |
 | idiĉo | idino | ido | 2 |
+| infaniĉo | infanino | infano | 3 |
 
 1. "kardo" devenas de la turka vorto "kardeş".
 2. Ne plu uzu "filo" kaj "filino", sed "idiĉo" kaj "idino" anstataŭe.
+3. Ne plu uzu "knabo" kaj "knabino", sed "infaniĉo" kaj "infanino" anstataŭe.
