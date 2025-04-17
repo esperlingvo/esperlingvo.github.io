@@ -71,10 +71,12 @@ Diskutgrupo ĉe Telegramo:
 La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 
 
-| iĉa | ina | neŭtrala |
-| --- | --- | -------- |
-| viro | femo | plenkreskulo (junulo, infano) |
-| patro | matro | parento |
-| frato | sestro | kardo |
+| iĉa | ina | neŭtrala | |
+| --- | --- | -------- | --- |
+| viro | femo | plenkreskulo (junulo, infano) | |
+| patro | matro | parento | |
+| frato | sestro | kardo | 1 |
+| idiĉo | idino | ido | 2 |
 
-- "kardo" devenas de la turka vorto "kardeş".
+1. "kardo" devenas de la turka vorto "kardeş".
+2. Ne plu uzu "filo" kaj "filino", sed "idiĉo" kaj "idino" anstataŭe.
