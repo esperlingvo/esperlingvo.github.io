@@ -77,4 +77,4 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 | patro | matro | parento |
 | frato | sestro | kardo |
 
-- "kardo" estas de la turka vorto "kardeş".
+- "kardo" devenas de la turka vorto "kardeş".
