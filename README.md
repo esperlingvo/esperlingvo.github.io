@@ -78,5 +78,6 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 | frato | sestro | kardo | 1 |
 | idiĉo | idino | ido | ne "filo" |
 | infaniĉo | infanino | infano | ne "knabo" |
+| aviĉo | avino | avo | |
 
 1. "kardo" devenas de la turka vorto "kardeş".
