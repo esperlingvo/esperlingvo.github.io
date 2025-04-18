@@ -80,4 +80,4 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 | infaniĉo | infanino | infano | ne "knabo" |
 | aviĉo | avino | avo | |
 
-1. "kardo" devenas de la turka vorto "kardeş".
+1. "kardo" devenas de la turka vorto "kardeş". Kompreneble vi povas ankaŭ uzi "kardiĉo" kaj "kardino" anstataŭ "frato" kaj "sestro".
