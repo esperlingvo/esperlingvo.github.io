@@ -75,7 +75,7 @@ Diskutgrupo ĉe Telegramo:
 
 [t.me/esperlingvo](https://t.me/esperlingvo)
 
-La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radikoj povas helpi vin elekti kio plaĉas al vi. Ekzemple: ankaŭ eblas uzi nur neŭtralajn o-vortojn en ĉiuj kuntekstoj. Sub la tabelo estas pliaj rimarkoj.
+La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radikoj povas helpi vin elekti kio plaĉas al vi. Ekzemple: ankaŭ eblas uzi nur neŭtralajn o-vortojn en preskaŭ ĉiuj kuntekstoj. Sub la tabelo estas pliaj rimarkoj.
 
 | iĉa | ina | neŭtrala | |
 | --- | --- | -------- | --- |
