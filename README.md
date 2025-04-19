@@ -14,7 +14,6 @@ Ekzemploj:
 - "fizikisto" estas neŭtrala.
 - "amiko" estas neŭtrala.
 
-
 ### Regulo 1.2 - vi apogas la simetrian uzon de inaj kaj iĉaj radikoj
 Ekzemploj:
 - se vi uzas la vorton "patro" (sen "-iĉa" sufikso, sed kun iĉa signifo), vi NE uzu la vorton "patrino", sed vi uzos "matro".
@@ -23,7 +22,6 @@ Ekzemploj:
 - vi uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
 
 \* La vorto "femo" estas ideo de artefarita intelekto.
-
 
 ### Regulo 1.3 - vi apogas la simetrian uzon de la sufiksoj "iĉa" kaj "ina"
 Ekzemploj:
@@ -38,9 +36,13 @@ Vi povas decidi.
 - kiu estu la neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi (unu radiko [reĝ], ne uzante "ge-").
 
 ### Regulo 1.5 - oni povas uzi neŭtralan vorton ankaŭ se la sekso estas konata
+Uzo de neŭtrala formo povas esti preferata eĉ kiam la sekso estas konata, pro:
+- prefero al pli mallongaj vortoj,
+- nesignifo de la sekso en la donita kunteksto (ekzemple "amiko" validas por ĉiuj amikoj, sendepende de sekso).
 
-Ekzemplo:
-- Se vi estas ie kun grupon de amikoj kaj ĉiuj havas la saman sekson (ĉiuj estas iĉaj aŭ ĉiuj estas inaj) vi povas uzi la vorton "amikoj" por aludi al tiuj.
+Ekzemploj:
+- Se en grupo ĉiuj estas de la sama sekso, oni povas simple diri "amikoj", sen bezono precizigi la sekson.
+- Diri "Ŝi estas amiko de mi kaj li estas amiko de mi" estas plene akceptebla - same kiel "Ŝi estas amikino de mi kaj li estas amikiĉo de mi".
 
 ## 2. La pronomo "lej"
 
@@ -66,7 +68,6 @@ La pronomo "lej" vi ne uzu kiam vi konas la sekson de la persono. Se iu petas vi
 - Oni uzas la sufiksojn "iĉa" kaj "ina" simetrie.
 - Oni povas uzi la pronomojn mi, vi, lej, li, ŝi, ri, ĝi, ni kaj ili (laŭ la reguloj).
 
-
 ## Diskuti
 
 Diskutgrupo ĉe Telegramo:
@@ -83,7 +84,7 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 | idiĉo | idino | ido | ne "filo" |
 | infaniĉo | infanino | infano | ne "knabo" |
 | aviĉo | avino | avo | |
-| pejo | pejo | pejo | ne "geedzo", 2 |
+| (pejiĉo) | (pejino) | pejo | ne "geedzo", 2 |
 
 1. "kardo" devenas de la turka vorto "kardeş". Kompreneble vi povas ankaŭ uzi "kardiĉo" kaj "kardino" anstataŭ "frato" kaj "sestro".
 2. La ĉinan 配偶 (pèi'ǒu), esperantigita "pejo", signifas "edziĉo aŭ edzino".
