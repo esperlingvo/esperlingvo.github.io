@@ -37,6 +37,11 @@ Vi povas decidi.
 - kiu estu la neŭtrala vorto por "patriĉo/patrino"? Eble "gepatro" (unu radiko [patr], uzante "ge-") aŭ "parento" (du radikoj, [patr, parent], ne uzante "ge-").
 - kiu estu la neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi (unu radiko [reĝ], ne uzante "ge-").
 
+### Regulo 1.5 - oni povas uzi neŭtralan vorton ankaŭ se la sekso estas konata
+
+Ekzemplo:
+- Se vi estas ie kun grupon de amikoj kaj ĉiuj havas la saman sekson (ĉiuj estas iĉaj aŭ ĉiuj estas inaj) vi povas uzi la vorton "amikoj" por aludi al tiuj.
+
 ## 2. La pronomo "lej"
 
 ### Regulo 2.1 - uzo de "li" aŭ "ŝi" estas la normo, se la sekso estas konata
