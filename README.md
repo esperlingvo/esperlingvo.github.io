@@ -87,4 +87,4 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 | edziĉo | edzino | pejo / geedzo | 2 |
 
 1. "kardo" devenas de la turka vorto "kardeş". Kompreneble vi povas ankaŭ uzi "kardiĉo" kaj "kardino" anstataŭ "frato" kaj "sestro".
-2. La ĉinan 配偶 (pèi'ǒu), esperlingvigita "pejo", signifas "edziĉo aŭ edzino". Do se oni ne volas uzi la ge-vorton "geedzo", vi povas uzi "pejo". En frazo: "Se vi estas pejiĝinta, skribu la nomon de via pejo ĉi tie".
+2. La ĉinan 配偶 (pèi'ǒu), esperlingvigita "pejo", signifas "edziĉo aŭ edzino". Do se vi ne volas uzi la ge-vorton "geedzo", vi povas uzi "pejo". En frazo: "Se vi estas pejiĝinta, skribu la nomon de via pejo ĉi tie".
