@@ -41,8 +41,8 @@ Uzo de neŭtrala formo povas esti preferata eĉ kiam la sekso estas konata, pro:
 - nesignifo de la sekso en la kunteksto (ekzemple "amiko" validas por ĉiuj amikoj, sendepende de sekso).
 
 Ekzemploj:
-- Se en grupo ĉiuj estas de la sama sekso, oni povas simple diri "amikoj", sen bezono precizigi la sekson.
-- Diri "Ŝi estas amiko de mi kaj li estas amiko de mi" estas plene akceptebla - same kiel "Ŝi estas amikino de mi kaj li estas amikiĉo de mi".
+- Diri "Ŝi estas amiko de mi kaj li estas amiko de mi" estas plene akceptebla - same kiel "Ŝi estas amikino de mi kaj li estas amikiĉo de mi" aŭ "Ili estas miaj amikoj".
+- "Ŝi estas programisto."
 
 ## 2. La pronomo "lej"
 
