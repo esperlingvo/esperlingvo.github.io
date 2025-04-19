@@ -38,7 +38,7 @@ Vi povas decidi.
 ### Regulo 1.5 - oni povas uzi neŭtralan vorton ankaŭ se la sekso estas konata
 Uzo de neŭtrala formo povas esti preferata eĉ kiam la sekso estas konata, pro:
 - prefero al pli mallongaj vortoj,
-- nesignifo de la sekso en la donita kunteksto (ekzemple "amiko" validas por ĉiuj amikoj, sendepende de sekso).
+- nesignifo de la sekso en la kunteksto (ekzemple "amiko" validas por ĉiuj amikoj, sendepende de sekso).
 
 Ekzemploj:
 - Se en grupo ĉiuj estas de la sama sekso, oni povas simple diri "amikoj", sen bezono precizigi la sekson.
