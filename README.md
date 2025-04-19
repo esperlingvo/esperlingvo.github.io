@@ -1,8 +1,8 @@
 # Esperlingvo
 
 Esperlingvo estas eta reformo de Esperanto, kiu celas:
-- helpi solvi la nesimetrion de la "-ino" sufikso en natura maniero
-- enkonduki pronomon kiu estas nur uzota se la sekso de iu homo estas nekonata
+- helpi solvi la nesimetrion de la ina sufikso en natura maniero
+- enkonduki pronomon kiu estu nur uzata se la sekso de iu homo estas nekonata
 
 ## 1. Solvi la nesimetrion de la ina sufikso
 
@@ -22,6 +22,8 @@ La neŭtrala formo povas esti preferinda eĉ kiam la sekso estas konata, pro:
 Ekzemploj:
 - Diri "Ŝi estas amiko de mi kaj li estas amiko de mi" estas plene akceptebla - same kiel "Ŝi estas amikino de mi kaj li estas amikiĉo de mi" aŭ "Ili estas miaj amikoj".
 - "Ŝi estas programisto."
+
+Se neŭtrala radiko ankoraŭ ne ekzistas, vi apogas la enkondukon de nova radiko.
 
 ### Regulo 1.3 - vi apogas la simetrian uzon de inaj kaj iĉaj radikoj
 Ekzemploj:
