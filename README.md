@@ -78,7 +78,7 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo:
 | idiĉo | idino | ido | ne "filo" |
 | infaniĉo | infanino | infano | ne "knabo" |
 | aviĉo | avino | avo | |
-| pejiĉo | pejino | pejo | ne "geedzo", 2 |
+| pejo | pejo | pejo | ne "geedzo", 2 |
 
 1. "kardo" devenas de la turka vorto "kardeş". Kompreneble vi povas ankaŭ uzi "kardiĉo" kaj "kardino" anstataŭ "frato" kaj "sestro".
 2. La ĉinan 配偶 (pèi'ǒu), esperantigita "pejo", signifas "edziĉo aŭ edzino".
