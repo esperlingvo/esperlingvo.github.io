@@ -35,7 +35,7 @@ Vi povas decidi.
 - kiu estu la neŭtrala vorto por "patriĉo/patrino"? Eble "gepatro" (unu radiko [patr], uzante "ge-") aŭ "parento" (du radikoj, [patr, parent], ne uzante "ge-").
 - kiu estu la neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi (unu radiko [reĝ], ne uzante "ge-").
 
-### Regulo 1.5 - oni povas uzi neŭtralan vorton ankaŭ se la sekso estas konata
+### Regulo 1.5 - oni povas uzi neŭtralan o-vorton ankaŭ se la sekso estas konata
 Uzo de neŭtrala formo povas esti preferata eĉ kiam la sekso estas konata, pro:
 - prefero al pli mallongaj vortoj,
 - nesignifo de la sekso en la kunteksto (ekzemple "amiko" validas por ĉiuj amikoj, sendepende de sekso).
