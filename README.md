@@ -83,11 +83,11 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | --- | --- | -------- | --- |
 | viro | femo | plenkreskulo (junulo, infano) | |
 | patro | matro | parento | |
-| frato | sestro | kardo | 1 |
+| frato | sestro | sibo | 1 |
 | idiĉo | idino | ido | ne "filo" |
 | infaniĉo | infanino | infano | ne "knabo" |
 | aviĉo | avino | avo | |
-| edziĉo | edzino | pejo / geedzo | 2 |
+| edziĉo | edzino | eŝo | 2 |
 
-1. "kardo" devenas de la turka vorto "kardeş". Kompreneble vi povas ankaŭ uzi "kardiĉo" kaj "kardino" anstataŭ "frato" kaj "sestro".
-2. La vorto "pejo", esperlingvigita el la ĉina 配偶 (pèi'ǒu), signifas "edziĉo aŭ edzino", kaj estas proponita kiel neŭtrala alternativo al "geedzo". En frazo: "Se vi estas pejiĝinta, skribu la nomon de via pejo ĉi tie".
+1. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
+2. La vorto "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html), signifas "edziĉo aŭ edzino", kaj estas proponita kiel neŭtrala alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
