@@ -89,5 +89,5 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | aviĉo | avino | avo | |
 | edziĉo | edzino | eŝo | 2 |
 
-1. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
+1. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi "sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
 2. La vorto "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html) estas proponita kiel alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
