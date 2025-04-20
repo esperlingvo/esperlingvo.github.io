@@ -42,7 +42,7 @@ Ekzemploj:
 
 ### Regulo 1.5 - ĉu necesas tri radikoj, du aŭ unu?
 Kelkaj vortoj nur bezonas neŭtralan formon. Por aliaj ideoj, tri vortoj necesas laŭ la uzantaro. Ĉu tiuj tri vortoj havu sian propran radikon? Uzantoj havos malsamajn preferojn. Kelkaj proponoj forigos kaj aliaj venkos.
-- kiu estu la neŭtrala vorto por "patro/matro"? Ne "gepatro" aŭ "gematro". Eble la jam ekzistanta vorto "parento" (el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o)), do tri radikoj [patr, matr, parent].
+- kiu estu la neŭtrala vorto por "patro/matro"? Ne "gepatro" aŭ "gematro", ĉar tio estus nesimetria. Tri radikoj necesus. Eble nova radiko "pamo" aŭ "parento", do tri radikoj [patr, matr, parent].
 - kiu estu la neŭtrala vorto por "patriĉo/patrino"? Eble "gepatro" (unu radiko [patr], uzante "ge-") aŭ "parento" (du radikoj, [patr, parent], ne uzante "ge-").
 - kiu estu la neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi (unu radiko [reĝ], ne uzante "ge-").
 - la vorto "fizikisto" ne bezonas iĉan aŭ inan formon.
@@ -82,12 +82,13 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | iĉa | ina | neŭtrala | |
 | --- | --- | -------- | --- |
 | viro | femo | plenkreskulo (junulo, infano) | |
-| patro | matro | parento | |
-| frato | sestro | sibo | 1 |
+| patro | matro | pamo / parento | 1 |
+| frato | sestro | sibo | 2 |
 | idiĉo | idino | ido | ne "filo" |
 | infaniĉo | infanino | infano | ne "knabo" |
 | aviĉo | avino | avo | |
-| edziĉo | edzino | eŝo | 2 |
+| edziĉo | edzino | eŝo | 3 |
 
-1. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi "sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
-2. La vorto "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html) estas proponita kiel alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
+1. "pamo" el la libro [Malgranda sibo](https://rano.org/frateto/libro.html) aŭ "parento" el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o).
+2. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi "sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
+3. "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html), estas proponita kiel alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
