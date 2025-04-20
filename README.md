@@ -67,8 +67,8 @@ Ekzemplo:
 La pronomo "lej" vi ne uzu kiam vi konas la sekson de la persono. Se iu petas vin ne uzi "li" aŭ "ŝi" por aludi al lej, vi povas uzi "ri" anstataŭe.
 
 ## Konkludo
-- Oni povas uzi iĉajn, inajn kaj neŭtralajn radikojn.
-- Oni povas uzi la sufiksojn "iĉo" kaj "ino" nur simetrie.
+- Oni povas uzi iĉajn, inajn kaj neŭtralajn radikojn, nur simetrie.
+- Oni povas uzi la sufiksojn "iĉo" kaj "ino", nur simetrie.
 - Oni povas uzi la pronomojn mi, vi, lej, li, ŝi, ri, ĝi, ni kaj ili (laŭ la reguloj).
 
 ## Diskuti
