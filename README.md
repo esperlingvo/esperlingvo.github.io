@@ -90,6 +90,7 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | aviĉo | avino | avo | |
 | edziĉo | edzino | eŝo | 3 |
 | - | - | ralo | 4 |
+| | | idido | ne "nepo" |
 
 1. "pamo" el la libro [Malgranda sibo](https://rano.org/frateto/libro.html) aŭ "parento" el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o).
 2. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi "sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
