@@ -91,6 +91,7 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | edziĉo | edzino | eŝo | 3 |
 | - | - | ralo | 4 |
 | 5 | 5 | idido | ne "nepo" |
+| sioriĉo | siorino | sioro | ne "sinjoro"|
 
 1. "pamo" el la libro [Malgranda sibo](https://rano.org/frateto/libro.html) aŭ "parento" el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o).
 2. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi "sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
