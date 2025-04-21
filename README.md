@@ -46,6 +46,7 @@ Kelkaj vortoj nur bezonas neŭtralan formon. Por aliaj ideoj, tri vortoj necesas
 - kiu estu la neŭtrala vorto por "patriĉo/patrino"? Eble "gepatro" (unu radiko [patr], uzante "ge-") aŭ "parento" (du radikoj, [patr, parent], ne uzante "ge-").
 - kiu estu la neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi (unu radiko [reĝ], ne uzante "ge-").
 - la vorto "fizikisto" ne bezonas iĉan aŭ inan formon.
+- eblas elekti la neŭtralan vorton unue, ekzemple "pamo", kaj uzi "pamo", "pamiĉo", "pamino" (anstataŭ "parento", "patro", "matro").
 
 ## 2. La pronomo "lej"
 
