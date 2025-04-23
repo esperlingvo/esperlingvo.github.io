@@ -87,7 +87,7 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | frato | sestro | sibo | 2 |
 | idiĉo | idino | ido | ne "filo" |
 | infaniĉo | infanino | infano | ne "knabo" |
-| aviĉo | avino | avo | |
+| aviĉo | avino | ajvo | |
 | edziĉo | edzino | eŝo | 3 |
 | - | - | ralo | 4 |
 | 5 | 5 | idido | ne "nepo" |
