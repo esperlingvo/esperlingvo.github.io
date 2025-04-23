@@ -87,15 +87,16 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | frato | sestro | sibo | 2 |
 | idiĉo | idino | ido | ne "filo" |
 | infaniĉo | infanino | infano | ne "knabo" |
-| aviĉo | avino | ajvo | |
-| edziĉo | edzino | eŝo | 3 |
-| - | - | ralo | 4 |
-| 5 | 5 | idido | ne "nepo" |
-| sioriĉo | siorino | sioro (6) | ne "sinjoro"|
+| aviĉo | avino | ajvo / avo | 3 |
+| edziĉo | edzino | eŝo | 4 |
+| - | - | ralo | 5 |
+| 6 | 6 | idido | ne "nepo" |
+| sioriĉo | siorino | sioro (7) | ne "sinjoro"|
 
 1. "pamo" el la libro [Malgranda sibo](https://rano.org/frateto/libro.html) aŭ "parento" el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o).
 2. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi "sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
-3. "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html), estas proponita kiel alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
-4. Por proksimaj familiaj rilatoj, ne rekte, ni povas uzi la vorton "ralo". Laŭ reta-vortaro tio estas speco de birdo, sed rezervi tiun radikon por tio estus bedaŭrebla. Ni reuzu tiun maloftan radikon por nova signifo. Do, ekzemple, la frato de patro aŭ matro estas ralo, la sestro de patro aŭ matro estas ralo, la eŝo de ralo estas ralo, la idoj de tiuj raloj estas raloj, la frato/sestro de avo povas esti ralo. Oni povas diri: "Ralo Marko venos hodiaŭ!" kaj "Ŝi estas ralo de mi." kaj "samaĝa ralo". Oni povas mem decidi kiuj estas sufiĉe "proksimaj" por nomi ilin "ralo". Tiel ni ankaŭ povas eviti terminojn kiel "nevo", "kuzo" kaj "onklo".
-5. Eble "iĉa idido" kaj "ina idido" taŭgas se la neŭtrala "idido" ne sufiĉas.
-6. "sioro" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html).
+3. Eble la vorto "avo" ne povas neŭtraliĝi. En Vikipedio troviĝas [listo de proponitaj neŭtralaj radikoj](https://eo.m.wikipedia.org/w/index.php?title=Listo_de_seksne%C5%ADtralaj_neologismoj) kaj tiu listo enhavas la propono "ajvo".
+4. "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html), estas proponita kiel alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
+5. Por proksimaj familiaj rilatoj, ne rekte, ni povas uzi la vorton "ralo". Laŭ reta-vortaro tio estas speco de birdo, sed rezervi tiun radikon por tio estus bedaŭrebla. Ni reuzu tiun maloftan radikon por nova signifo. Do, ekzemple, la frato de patro aŭ matro estas ralo, la sestro de patro aŭ matro estas ralo, la eŝo de ralo estas ralo, la idoj de tiuj raloj estas raloj, la frato/sestro de avo povas esti ralo. Oni povas diri: "Ralo Marko venos hodiaŭ!" kaj "Ŝi estas ralo de mi." kaj "samaĝa ralo". Oni povas mem decidi kiuj estas sufiĉe "proksimaj" por nomi ilin "ralo". Tiel ni ankaŭ povas eviti terminojn kiel "nevo", "kuzo" kaj "onklo".
+6. Eble "iĉa idido" kaj "ina idido" taŭgas se la neŭtrala "idido" ne sufiĉas.
+7. "sioro" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html).
