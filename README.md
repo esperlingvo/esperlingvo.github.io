@@ -86,11 +86,11 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | patro | matro | pamo / parento | 1 |
 | frato | sestro | sibo | 2 |
 | idiĉo | idino | ido | ne "filo" |
-| infaniĉo | infanino | infano | ne "knabo" |
 | aviĉo | avino | ajvo / avo | 3 |
 | edziĉo | edzino | eŝo | 4 |
 | - | - | ralo | 5 |
 | 6 | 6 | idido | ne "nepo" |
+| infaniĉo | infanino | infano | ne "knabo" |
 | sioriĉo | siorino | sioro (7) | ne "sinjoro"|
 
 1. "pamo" el la libro [Malgranda sibo](https://rano.org/frateto/libro.html) aŭ "parento" el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o).
