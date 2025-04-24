@@ -59,6 +59,7 @@ Por persono de kiu vi ne konas la sekson, vi uzas "lej".
 Ekzemploj:
 - "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al lej."
 - "Vendisto havas vendejon. Lej laboras minimume kvar tagojn."
+- "Ĉiu lernas siamaniere. Lej trovas sian propran ritmon."
 
 Vi povas uzi "li aŭ ŝi" anstataŭ "lej". (Eble kelkaj personoj preferos "li, ŝi aŭ ri".)
 
