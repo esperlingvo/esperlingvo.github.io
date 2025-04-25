@@ -54,7 +54,7 @@ Kelkaj vortoj nur bezonas neŭtralan formon. Por aliaj ideoj, tri vortoj necesas
 Se vi konas la sekson de iu, vi uzos "ŝi" aŭ "li". (Se iu petas vin uzi la pronomon "ri", vi povas uzi "ri" por aludi al tiu persono.)
 
 ### Regulo 2.2 - uzo de "lej" estas la normo, se la sekso estas nekonata
-Por persono de kiu vi ne konas la sekson (ekzemple ĉar temas pri hipoteza aŭ ĝenerala persono), vi uzas "lej".
+Por persono de kiu vi ne konas la sekson, vi uzas "lej".
 
 Ekzemploj:
 - "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al lej."
