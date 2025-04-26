@@ -1,6 +1,6 @@
 # Esperlingvo
 
-Esperlingvo estas eta reformo de Esperanto, kiu celas:
+Esperlingvo estas reformo de Esperanto, kiu celas:
 - helpi solvi la nesimetrion de la ina sufikso en natura maniero
 - enkonduki pronomon kiu estu nur uzata se la sekso de iu homo estas nekonata
 
