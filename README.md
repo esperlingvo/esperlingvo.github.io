@@ -90,15 +90,14 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | aviĉo | avino | ajvo / avo | 3 |
 | edziĉo | edzino | eŝo | 4 |
 | 5 | 5 | idido | ne "nepo" |
-| ŝengiĉo | ŝengino | ŝengo (6) | ne "nevo" |
+| neviĉo | nevino | sibido | |
 | kuziĉo | kuzino | kuzeno | |
 | infaniĉo | infanino | infano | ne "knabo" |
-| sioriĉo | siorino | sioro (7) | ne "sinjoro"|
+| sioriĉo | siorino | sioro (6) | ne "sinjoro"|
 
 1. "pamo" el la libro [Malgranda sibo](https://rano.org/frateto/libro.html) aŭ "parento" el [reta-vortaro.de](https://reta-vortaro.de/revo/dlg/index-2m.html#parent1.0o).
 2. "sibo" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html). Kompreneble vi povas ankaŭ uzi "sibiĉo" kaj "sibino" anstataŭ "frato" kaj "sestro".
 3. Eble la vorto "avo" ne povas neŭtraliĝi. En Vikipedio troviĝas [listo de proponitaj neŭtralaj radikoj](https://eo.m.wikipedia.org/w/index.php?title=Listo_de_seksne%C5%ADtralaj_neologismoj) kaj tiu listo enhavas la proponon "ajvo".
 4. "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html), estas proponita kiel alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
 5. Eble "iĉa idido" kaj "ina idido" taŭgas se la neŭtrala "idido" ne sufiĉas.
-6. "ŝengo" el la ĉina estas proponita kiel alternativo al "genevo". Vidu la [Vikipedio-listo de proponitaj neŭtralaj radikoj](https://eo.m.wikipedia.org/w/index.php?title=Listo_de_seksne%C5%ADtralaj_neologismoj).
-7. "sioro" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html).
+6. "sioro" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html).
