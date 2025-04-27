@@ -73,7 +73,8 @@ La pronomo "lej" vi ne uzu kiam vi konas la sekson de la persono. Se iu petas vi
 - Oni povas uzi la sufiksojn "iĉo" kaj "ino", nur simetrie.
 - Oni povas uzi la pronomojn mi, vi, lej, li, ŝi, ri, ĝi, ni kaj ili (laŭ la reguloj).
 
-## Diskuti
+
+## Proponitaj vortoj
 
 Diskutgrupo ĉe Telegramo:
 
@@ -101,3 +102,10 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 4. "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html), estas proponita kiel alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
 5. Eble "iĉa idido" kaj "ina idido" taŭgas se la neŭtrala "idido" ne sufiĉas.
 6. "sioro" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html).
+
+
+## Babilejo
+
+Ĉu vi havas demandojn, ideojn, aŭ volas simple babili uzante Esperlingvon? Venu al nia Telegram-grupo:
+
+[t.me/esperlingvo](https://t.me/esperlingvo)
