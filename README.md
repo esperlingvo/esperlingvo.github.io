@@ -100,5 +100,5 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 3. Eble la vorto "avo" ne povas neŭtraliĝi. En Vikipedio troviĝas [listo de proponitaj neŭtralaj radikoj](https://eo.m.wikipedia.org/w/index.php?title=Listo_de_seksne%C5%ADtralaj_neologismoj) kaj tiu listo enhavas la proponon "ajvo".
 4. "eŝo", el la libro [Malgranda sibo](https://rano.org/frateto/libro.html), estas proponita kiel alternativo al "geedzo". En frazo: "Se vi estas eŝiĝinta, skribu la nomon de via eŝo ĉi tie".
 5. Eble "iĉa idido" kaj "ina idido" taŭgas se la neŭtrala "idido" ne sufiĉas.
-6. "ŝengo" el la ĉina signifas "genevo". Vidu la [Vikipedio-listo de proponitaj neŭtralaj radikoj](https://eo.m.wikipedia.org/w/index.php?title=Listo_de_seksne%C5%ADtralaj_neologismoj).
+6. "ŝengo" el la ĉina estas proponita kiel alternativo al "genevo". Vidu la [Vikipedio-listo de proponitaj neŭtralaj radikoj](https://eo.m.wikipedia.org/w/index.php?title=Listo_de_seksne%C5%ADtralaj_neologismoj).
 7. "sioro" estas el la libro [Malgranda sibo](https://rano.org/frateto/libro.html).
