@@ -68,6 +68,7 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | 5 | 5 | idido | ne "nepo" |
 | neviĉo | nevino | nejevo / sibido | |
 | kuziĉo | kuzino | kuzeno | |
+| onklo | aŭnto | onco | |
 | infaniĉo | infanino | infano | ne "knabo" |
 | sioriĉo | siorino | sioro (6) | ne "sinjoro"|
 
