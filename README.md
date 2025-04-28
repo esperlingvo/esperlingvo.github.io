@@ -21,7 +21,7 @@ Ekzemploj:
 
 Se neŭtrala radiko ankoraŭ ne ekzistas, oni apogas la enkondukon de nova radiko.
 
-En Esperlingvo, se oni decidas ke distingo estas preferata, oni uzas la jenaj sistemoj:
+En Esperlingvo, se oni decidas ke distingo estas preferata, oni uzas la jenajn sistemojn:
 1. oni kreas paron el neŭtrala radiko kun iĉa kaj ina sufikso. (ekz. pamo -> pamiĉo kaj pamino)
 2. oni uzas iĉa radiko kaj ina radiko. (ekz. frato kaj sestro)
 
