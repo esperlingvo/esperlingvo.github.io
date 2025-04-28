@@ -9,26 +9,23 @@ En la tradicia Esperanto de 1887, oni havis iĉan radikon "patro", sed ne inan a
 
 Ambaŭ solvoj estas pli simetriaj ol "patro, patrino, gepatro", ĉar "patro" estas iĉa.
 
-En la nuna Esperanto, la jenaj vortoj jam estas neŭtralaj:
-- "urbestro"
-- "fizikisto"
-- "amiko"
-
-Tamen, de tempo al tempo oni uzas vortojn kiel "geamikoj" kaj "fizikistino", kio montras daŭran nesimetrion.
-
-Familiaj rilatoj estas ekzemplo de temo, en kiu la vira/fema distingo estas tre utila. (En aliaj temoj ankaŭ eblas fari la distingon.) En Esperlingvo:
-- Se oni uzas "viro", oni prefere elektas "femo" anstataŭ "virino".
-- Oni prefere uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
-
-Tamen, en multaj temoj, la neŭtrala formo povas esti preferinda eĉ kiam la sekso estas konata, pro:
+Familiaj rilatoj estas ekzemplo de temo, en kiu la vira/fema distingo estas tre utila. Tamen, en multaj temoj, la neŭtrala formo povas esti preferinda eĉ kiam la sekso estas konata, pro:
 - prefero al pli mallongaj vortoj,
 - nesignifo de la sekso en la kunteksto (ekzemple "amiko" validas por ĉiuj amikoj, sendepende de sekso).
 
 Ekzemploj:
-- Diri "Ŝi estas amiko de mi kaj li estas amiko de mi" estas plene akceptebla — same kiel "Ŝi estas amikino de mi kaj li estas amikiĉo de mi" aŭ "Ili estas miaj amikoj".
+- "Ŝi estas amiko de mi."
+- "Ili estas miaj amikoj".
 - "Ŝi estas programisto."
+- "La nuna reĝo estas femo."
 
 Se neŭtrala radiko ankoraŭ ne ekzistas, oni apogas la enkondukon de nova radiko.
+
+En Esperlingvo, se oni decidas ke distingo estas preferata, oni uzas parojn de o-vortoj kreitajn per la jenaj sistemoj:
+1. oni uzas neŭtralan radikon kun iĉa kaj ina sufikso.
+2. oni uzas iĉa radiko kaj ina radiko.
+
+Ankaŭ, oni prefere uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
 
 ## Pronomoj
 
