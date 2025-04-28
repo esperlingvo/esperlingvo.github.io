@@ -16,7 +16,7 @@ En la nuna Esperanto, la jenaj vortoj jam estas neŭtralaj:
 
 Tamen, de tempo al tempo oni uzas vortojn kiel "geamikoj" kaj "fizikistino", kio montras daŭran nesimetrion.
 
-Familiaj rilatoj estas ekzemplo de temo, en kiu la vira/fema distingo estas tre utila. (En aliaj temoj ankaŭ eblas fari la distingon.) Ekzemple:
+Familiaj rilatoj estas ekzemplo de temo, en kiu la vira/fema distingo estas tre utila. (En aliaj temoj ankaŭ eblas fari la distingon.) En Esperlingvo:
 - Se oni uzas "viro", oni prefere elektas "femo" anstataŭ "virino".
 - Oni prefere uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
 
