@@ -1,77 +1,55 @@
 # Esperlingvo
 
-Esperlingvo estas reformo de Esperanto, kiu celas:
-- helpi solvi la nesimetrion de la ina sufikso en natura maniero
-- enkonduki pronomon kiu estu nur uzata se la sekso de iu homo estas nekonata
+Esperlingvo estas stilo de Esperanto por ĉiuj, kiuj preferas simetrion rilate iĉan kaj inan vortformadon kaj preferas la eblon esprimi sin neŭtrale.
 
-## 1. Solvi la nesimetrion de la ina sufikso
+## Vortformado
+En la tradicia Esperanto de 1887, oni havis iĉan radikon "patro" sed, ne inan aŭ neŭtralan radikon. Nuntempe, tiuj radikoj ekzistas, sed la tradicia uzo ankoraŭ estas instruata kaj la normo en Esperanto. En Esperlingvo, oni preferas pli simetrian uzon, ekzemple:
+- la neŭtrala "pamo" kune kun "pamiĉo" kaj "pamino".
+- la tradicia vira "patro" kune kun la ina "matro", eble kun la neŭtrala "parento".
 
-### Regulo 1.1 - vi apogas la uzon de iĉaj radikoj, inaj radikoj kaj neŭtralaj radikoj
-Ekzemploj:
-- "patro" estas iĉa.
-- "matro" estas ina.
-- "urbestro" estas neŭtrala.
-- "fizikisto" estas neŭtrala.
-- "amiko" estas neŭtrala.
+Ambaŭ solvoj estas pli simetriaj ol "patro, patrino, gepatro", ĉar "patro" estas iĉa.
 
-### Regulo 1.2 - oni povas uzi neŭtralan o-vorton ankaŭ se la sekso estas konata
-La neŭtrala formo povas esti preferinda eĉ kiam la sekso estas konata, pro:
+En la nuna Esperanto, la jenaj vortoj jam estas neŭtralaj:
+- "urbestro"
+- "fizikisto"
+- "amiko"
+
+Tamen, de tempo al tempo oni uzas vortojn kiel "geamikoj" kaj "fizikistino", kio montras daŭran nesimetrion.
+
+Familiaj rilatoj estas ekzemplo de temo, en kiu la vira/fema distingo estas tre utila. (En aliaj temoj ankaŭ eblas fari la distingon.) Ekzemple:
+- Se oni uzas "viro", oni prefere elektas "femo" anstataŭ "virino".
+- Oni prefere uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
+
+Tamen, en multaj temoj, la neŭtrala formo povas esti preferinda eĉ kiam la sekso estas konata, pro:
 - prefero al pli mallongaj vortoj,
 - nesignifo de la sekso en la kunteksto (ekzemple "amiko" validas por ĉiuj amikoj, sendepende de sekso).
 
 Ekzemploj:
-- Diri "Ŝi estas amiko de mi kaj li estas amiko de mi" estas plene akceptebla - same kiel "Ŝi estas amikino de mi kaj li estas amikiĉo de mi" aŭ "Ili estas miaj amikoj".
+- Diri "Ŝi estas amiko de mi kaj li estas amiko de mi" estas plene akceptebla — same kiel "Ŝi estas amikino de mi kaj li estas amikiĉo de mi" aŭ "Ili estas miaj amikoj".
 - "Ŝi estas programisto."
 
-Se neŭtrala radiko ankoraŭ ne ekzistas, vi apogas la enkondukon de nova radiko.
+Se neŭtrala radiko ankoraŭ ne ekzistas, oni apogas la enkondukon de nova radiko.
 
-### Regulo 1.3 - vi apogas la simetrian uzon de inaj kaj iĉaj radikoj
-Ekzemploj:
-- se vi uzas la vorton "patro" (sen "-iĉo" sufikso, sed kun iĉa signifo), vi NE uzu la vorton "patrino", sed vi uzos "matro".
-- se vi uzas la vorton "matro" (sen "-ino" sufikso, sed kun ina signifo), vi NE uzu la vorton "matriĉo", sed vi uzos "patro".
-- se vi uzas la vorton "viro" (sen "-iĉo" sufikso, sed kun iĉa signifo), vi devas koni inan radikon por tiu koncepto. Se tio ankoraŭ ne ekzistas, vi apogas la enkondukon de nova radiko, ekzemple "femo"*.
-- vi uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
+## Pronomoj
 
-\* La vorto "femo" estas ideo de artefarita intelekto.
+En la tradicia Esperanto, "li" estis ambaŭ vira kaj neŭtrala, sed nuntempe "li" estas nur vira. Oni enkondukis "ri" (kaj aliaj pronomoj) per kiu oni celis havi neŭtralan pronomon por ambaŭ "ŝi aŭ li", do forigi la neceson ripeti "li aŭ ŝi" se oni parolis pri imaga aŭ nekonata persono. Nuntempe, la pronomo "ri" ankaŭ estas uzata por aludi al homoj kiuj sentas sin nek viro nek femo. Ankaŭ, kelkaj parolantoj ĉiam uzas "ri" por ĉiuj. Tio ebligas konfuzon: ĉu temas pri neduumulo, nekonata persono aŭ konvinko ke la uzo de "li" kaj "ŝi" estas malbona?
 
-### Regulo 1.4 - vi apogas la simetrian uzon de la sufiksoj "iĉo" kaj "ino"
-Ekzemploj:
-- se vi uzas la vorton "patrino", vi ankaŭ uzos la vorton "patriĉo".
-- se vi uzas la vorton "viriĉo", vi ankaŭ uzos la vorton "virino".
-- se vi NE uzos la vorton "fizikistiĉo", vi ankaŭ NE uzos la vorton "fizikistino".
+En Esperlingvo:
+- se oni prefere uzas "li" kaj "ŝi", tiam "lej" oni povas uzi por nekonata persono.
+- se iu demandas ne uzi "li" aŭ "ŝi", oni povas uzi "ri" por aludi al tiu persono.
+- persono aŭ organizo povas uzi "ri" por aludi al ĉiu persono, konata kaj nekonata.
 
-### Regulo 1.5 - ĉu necesas tri radikoj, du aŭ unu?
-Kelkaj vortoj nur bezonas neŭtralan formon. Por aliaj ideoj, tri vortoj necesas laŭ la uzantaro. Ĉu tiuj tri vortoj havu sian propran radikon? Uzantoj havos malsamajn preferojn. Kelkaj proponoj forigos kaj aliaj venkos.
-- kiu estu la neŭtrala vorto por "patro/matro"? Ne "gepatro" aŭ "gematro", ĉar tio estus nesimetria. Tri radikoj necesus. Eble nova radiko "pamo" aŭ "parento", do tri radikoj [patr, matr, parent].
-- kiu estu la neŭtrala vorto por "patriĉo/patrino"? Eble "gepatro" (unu radiko [patr], uzante "ge-") aŭ "parento" (du radikoj, [patr, parent], ne uzante "ge-").
-- kiu estu la neŭtrala vorto por "reĝiĉo/reĝino"? Eble "reĝo" estas neŭtrala por vi (unu radiko [reĝ], ne uzante "ge-").
-- la vorto "fizikisto" ne bezonas iĉan aŭ inan formon.
-- eblas elekti la neŭtralan vorton unue, ekzemple "pamo", kaj uzi "pamo", "pamiĉo", "pamino" (anstataŭ "parento", "patro", "matro").
-
-## 2. La pronomo "lej"
-
-### Regulo 2.1 - uzo de "li" aŭ "ŝi" estas la normo, se la sekso estas konata
-Se vi konas la sekson de iu, vi uzos "ŝi" aŭ "li". (Se iu petas vin uzi la pronomon "ri", vi povas uzi "ri" por aludi al tiu persono.)
-
-### Regulo 2.2 - uzo de "lej" estas la normo, se la sekso estas nekonata
-Por persono de kiu vi ne konas la sekson, vi uzas "lej".
+Do "lej" nur helpas ne ripeti "li aŭ ŝi" kaj "li aŭ ŝi aŭ ri".
 
 Ekzemploj:
 - "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al lej."
 - "Vendisto havas vendejon. Lej laboras minimume kvar tagojn."
 - "Ĉiu lernas siamaniere. Lej trovas sian propran ritmon."
 
-Vi povas uzi "li aŭ ŝi" anstataŭ "lej". (Eble kelkaj personoj preferos "li, ŝi aŭ ri".)
-
-Ekzemplo:
-- "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al li aŭ ŝi."
-
-La pronomo "lej" vi ne uzu kiam vi konas la sekson de la persono. Se iu petas vin ne uzi "li" aŭ "ŝi" por aludi al lej, vi povas uzi "ri" anstataŭe.
-
 ## Konkludo
-- Oni povas uzi iĉajn, inajn kaj neŭtralajn radikojn, nur simetrie.
-- Oni povas uzi la sufiksojn "iĉo" kaj "ino", nur simetrie.
-- Oni povas uzi la pronomojn mi, vi, lej, li, ŝi, ri, ĝi, ni kaj ili (laŭ la reguloj).
+- Oni povas uzi iĉajn, inajn kaj neŭtralajn radikojn, prefere simetrie.
+- Oni povas uzi la sufiksojn "iĉo" kaj "ino", prefere simetrie.
+- Oni povas uzi la pronomojn mi, vi, lej, li, ŝi, ri, ĝi, ni kaj ili.
 
 
 ## Proponitaj vortoj
