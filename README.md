@@ -17,12 +17,12 @@ Ekzemploj:
 - "Ŝi estas amiko de mi."
 - "Ili estas miaj amikoj".
 - "Ŝi estas programisto."
-- "La nuna reĝo estas femo."
+- "La nuna prezidento estas femo."
 
 Se neŭtrala radiko ankoraŭ ne ekzistas, oni apogas la enkondukon de nova radiko.
 
 En Esperlingvo, se oni decidas ke distingo estas preferata, oni uzas la jenajn sistemojn:
-1. oni kreas paron el neŭtrala radiko kun iĉa kaj ina sufikso. (ekz. pamo -> pamiĉo kaj pamino)
+1. oni kreas paron el neŭtrala radiko, aldonante iĉan kaj inan sufikson. (ekz. pamo -> pamiĉo kaj pamino)
 2. oni uzas iĉan radikon kaj inan radikon. (ekz. frato kaj sestro)
 
 Ankaŭ, oni prefere uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
@@ -35,7 +35,7 @@ En Esperlingvo:
 - se oni prefere uzas "li" kaj "ŝi", tiam "lej" oni povas uzi por nekonata persono.
 - se iu demandas ne uzi "li" aŭ "ŝi", oni povas uzi "ri" por aludi al tiu persono.
 
-Do "lej" nur helpas ne ripeti "li aŭ ŝi" kaj "li aŭ ŝi aŭ ri".
+Tiel, "lej" helpas eviti la ripetadon de "li aŭ ŝi" kaj "li aŭ ŝi aŭ ri".
 
 Ekzemploj:
 - "Se vi vidas alian lernanton de mi, bonvolu montri mian sidlokon al lej."
@@ -62,7 +62,7 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | patro | matro | pamo / parento | 1 |
 | frato | sestro | sibo | 2 |
 | idiĉo | idino | ido | ne "filo" |
-| aviĉo | avino | ajvo / avo | 3 |
+| aviĉo | avino | ajvo | 3 |
 | edziĉo | edzino | eŝo | 4 |
 | 5 | 5 | idido | ne "nepo" |
 | neviĉo | nevino | sibido | |
