@@ -21,7 +21,7 @@ Ekzemploj:
 
 Se neŭtrala radiko ankoraŭ ne ekzistas, oni apogas la enkondukon de nova radiko.
 
-En Esperlingvo, se oni decidas ke distingo estas preferata, oni uzas parojn de o-vortoj kreitajn per la jenaj sistemoj:
+En Esperlingvo, se oni decidas ke distingo estas preferata, oni uzas la jenaj sistemoj:
 1. oni uzas neŭtralan radikon kun iĉa kaj ina sufikso.
 2. oni uzas iĉa radiko kaj ina radiko.
 
