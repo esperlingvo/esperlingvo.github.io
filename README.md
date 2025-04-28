@@ -37,7 +37,6 @@ En la tradicia Esperanto, "li" estis ambaŭ vira kaj neŭtrala, sed nuntempe "li
 En Esperlingvo:
 - se oni prefere uzas "li" kaj "ŝi", tiam "lej" oni povas uzi por nekonata persono.
 - se iu demandas ne uzi "li" aŭ "ŝi", oni povas uzi "ri" por aludi al tiu persono.
-- persono aŭ organizo povas uzi "ri" por aludi al ĉiu persono, konata kaj nekonata.
 
 Do "lej" nur helpas ne ripeti "li aŭ ŝi" kaj "li aŭ ŝi aŭ ri".
 
