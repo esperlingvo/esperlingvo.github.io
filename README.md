@@ -3,7 +3,7 @@
 Esperlingvo estas stilo de Esperanto por ĉiuj, kiuj preferas simetrion rilate iĉan kaj inan vortformadon kaj preferas la eblon esprimi sin neŭtrale.
 
 ## Vortformado
-En la tradicia Esperanto de 1887, oni havis iĉan radikon "patro" sed, ne inan aŭ neŭtralan radikon. Nuntempe, tiuj radikoj ekzistas, sed la tradicia uzo ankoraŭ estas instruata kaj la normo en Esperanto. En Esperlingvo, oni preferas pli simetrian uzon, ekzemple:
+En la tradicia Esperanto de 1887, oni havis iĉan radikon "patro", sed ne inan aŭ neŭtralan radikon. Nuntempe, tiuj radikoj ekzistas, sed la tradicia uzo ankoraŭ estas instruata kaj la normo en Esperanto. En Esperlingvo, oni preferas pli simetrian uzon, ekzemple:
 - la neŭtrala "pamo" kune kun "pamiĉo" kaj "pamino".
 - la tradicia vira "patro" kune kun la ina "matro", eble kun la neŭtrala "parento".
 
