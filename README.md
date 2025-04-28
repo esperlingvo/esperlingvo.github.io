@@ -23,7 +23,7 @@ Se neŭtrala radiko ankoraŭ ne ekzistas, oni apogas la enkondukon de nova radik
 
 En Esperlingvo, se oni decidas ke distingo estas preferata, oni uzas la jenajn sistemojn:
 1. oni kreas paron el neŭtrala radiko kun iĉa kaj ina sufikso. (ekz. pamo -> pamiĉo kaj pamino)
-2. oni uzas iĉa radiko kaj ina radiko. (ekz. frato kaj sestro)
+2. oni uzas iĉan radikon kaj inan radikon. (ekz. frato kaj sestro)
 
 Ankaŭ, oni prefere uzas adjektivajn parojn kiuj estas simetriaj, do "vira/fema" aŭ "iĉa/ina" (aŭ, ĉar la ordo ne gravas, "fema/vira" aŭ "ina/iĉa"), sed NE "vira/ina" kaj NE "iĉa/fema" ĉar tio miksus sistemojn.
 
