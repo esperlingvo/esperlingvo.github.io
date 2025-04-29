@@ -66,7 +66,7 @@ La jena tabelo estos aktualigita laŭ la proponoj de la Telegram-grupo. La radik
 | aviĉo | avino | ajvo | 3 |
 | edziĉo | edzino | eŝo | 4 |
 | 5 | 5 | idido | ne "nepo" |
-| neviĉo | nevino | nejevo / sibido | |
+| neviĉo | nevino | nievo / sibido | |
 | kuziĉo | kuzino | kuzeno | |
 | onklo | aŭnto | onco | |
 | infaniĉo | infanino | infano | ne "knabo" |
