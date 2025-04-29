@@ -7,7 +7,7 @@ En la tradicia Esperanto de 1887, oni havis iĉan radikon "patro", sed ne inan a
 - la neŭtrala "pamo" kune kun "pamiĉo" kaj "pamino".
 - la tradicia vira "patro" kune kun la ina "matro", eble kun la neŭtrala "parento".
 
-Ambaŭ solvoj estas pli simetriaj ol "patro, patrino, gepatro", ĉar "patro" estas iĉa.
+Ambaŭ solvoj estas pli simetriaj ol "patro, patrino, gepatro".
 
 Familiaj rilatoj estas ekzemplo de temo, en kiu la vira/fema distingo estas tre utila. Tamen, en multaj temoj, la neŭtrala formo povas esti preferinda eĉ kiam la sekso estas konata, pro:
 - prefero al pli mallongaj vortoj,
